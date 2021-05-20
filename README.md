@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 We are a promising IT company working in the field of information security 😎
+
+- 🔭 I’m currently working on "Hacker Simulator"
+
+P.S. ⚡ Fun fact: Don't worry if it doesn't work. If everything always worked, you wouldn't have a job. 
 
 <!--
 **personal-security/personal-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
